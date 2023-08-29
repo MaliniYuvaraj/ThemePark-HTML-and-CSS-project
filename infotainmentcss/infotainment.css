@@ -1,0 +1,172 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.navbarinfotainment
+
+{
+ display:flex;
+ justify-content:space-around;
+ background-color:#f1f2f3;
+}
+.navbarinfotainment>ul{
+    list-style:none;
+    display:flex;
+    justify-content:space-around;
+}
+.navbarinfotainment>ul>li>a{
+    display:block;
+    color:brown;
+    font-family:'Josefin Sans', sans-serif;
+    font-size:1.4rem;
+    padding:30px;
+}
+.infotainmenthead>h1{
+    font-size:2rem;
+    text-align:center;
+    color:#4a4e69;
+    padding:30px;
+    font-family: 'Acme', sans-serif;
+    font-weight:normal;
+}
+footer
+{
+    height:200px;
+    background:#9d0208;
+    color:#fff;
+    font-size:1.2rem;
+display:flex;
+flex-direction:column;
+align-items:center;
+padding:10px;
+
+}
+.footerone
+{
+
+padding:5px;
+}
+.footertwo
+{
+    
+    padding:5px;
+}
+.footerthree
+{
+    padding:5px;
+}
+.info>a{
+    text-decoration:none;
+    color:#fff;
+}
+.footerfour
+{
+    padding:5px;
+    font-size:1.5rem;
+}
+.img>img
+{
+width:40px;
+height:40px;
+border-radius:10px;
+padding:5px;
+}
+.infotainmentimages
+{
+    width:100%;
+    height:auto;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    background-color:#f1f2f3;
+}
+.aquarium{
+    width:350px;
+    display:flex;
+    flex-direction:column;
+}
+.birdpark{
+    width:350px;
+
+    display:flex;
+    flex-direction:column;
+}
+.rainforest{
+    width:350px;
+    display:flex;
+    flex-direction:column;
+}
+.birdpark>img
+{
+    width:100%;
+    height:250px;
+    transform:scale(0.9);
+    transition:1.5s;
+}
+.aquarium>img
+{
+    width:100%;
+    height:250px;
+    transform:scale(0.9);
+    transition:1.5s;
+}
+.rainforest>img
+{
+    width:100%;
+    height:250px;
+    transform:scale(0.9);
+    transition:1.5s;
+}
+.birdpark>img:hover{
+    transform:scale(1);
+}
+.aquarium>img:hover{
+    transform:scale(1);
+}
+.rainforest>img:hover{
+    transform:scale(1);
+}
+.birdpark>h{
+    font-size:1.4rem;
+    text-align:center;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+.aquarium>h{
+    font-size:1.4rem;
+    text-align:center;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+.rainforest>h{
+    font-size:1.4rem;
+    text-align:center;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+.birdpark>p{
+    font-size:1rem;
+
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+}
+.aquarium>p{
+    font-size:1.1rem;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+}
+.rainforest>p{
+    font-size:1.1rem;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+}

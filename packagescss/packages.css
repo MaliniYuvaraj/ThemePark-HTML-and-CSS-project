@@ -1,0 +1,164 @@
+*
+{
+    margin:0px;
+    padding:0px;
+}
+.navbarpackages
+
+{
+ display:flex;
+ justify-content:space-around;
+ background-color:#dad7cd;
+}
+.navbarpackages>ul{
+    list-style:none;
+    display:flex;
+    justify-content:space-around;
+}
+.navbarpackages>ul>li>a{
+    display:block;
+    color:brown;
+    font-family:'Josefin Sans', sans-serif;
+    font-size:1.2rem;
+    padding:30px 10px;
+}
+.packagesimages
+{
+    width:100%;
+    height:auto;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
+    background-color:#f1f2f3;
+}
+.birthdaypackages{
+    width:350px;
+    display:flex;
+    flex-direction:column;
+}
+.weddingpackages{
+    width:350px;
+
+    display:flex;
+    flex-direction:column;
+}
+.adventurestaypackages{
+    width:350px;
+    display:flex;
+    flex-direction:column;
+}
+.birthdaypackages>img
+{
+    width:100%;;
+    height:250px;
+    transform:scale(0.9);
+    transition:1.5s;
+}
+.weddingpackages>img
+{
+    width:100%;
+    height:250px;
+    transform:scale(0.9);
+    transition:1.5s;
+}
+.adventurestaypackages>img
+{
+    width:100%;
+    height:250px;
+    transform:scale(0.9);
+    transition:1.5s;
+}
+.birthdaypackages>img:hover{
+    transform:scale(1);
+}
+.weddingpackages>img:hover{
+    transform:scale(1);
+}
+.adventurestaypackages>img:hover{
+    transform:scale(1);
+}
+.birthdaypackages>h{
+    font-size:1.4rem;
+    text-align:center;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+.weddingpackages>h{
+    font-size:1.4rem;
+    text-align:center;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+.adventurestaypackages>h{
+    font-size:1.4rem;
+    text-align:center;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+
+}
+.birthdaypackages>p{
+    font-size:1rem;
+
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+}
+.weddingpackages>p{
+    font-size:1.1rem;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+}
+.adventurestaypackages>p{
+    font-size:1.1rem;
+    padding:10px 0px;
+    color:#4a4e69;
+    font-family:'Josefin Sans', sans-serif;
+}
+footer
+{
+    height:200px;
+    background:#9d0208;
+    color:#fff;
+    font-size:1.2rem;
+display:flex;
+flex-direction:column;
+align-items:center;
+padding:10px;
+
+}
+.footerone
+{
+
+padding:5px;
+}
+.footertwo
+{
+    
+    padding:5px;
+}
+.footerthree
+{
+    padding:5px;
+}
+.info>a{
+    text-decoration:none;
+    color:#fff;
+}
+.footerfour
+{
+    padding:5px;
+    font-size:1.5rem;
+}
+.img>img
+{
+width:40px;
+height:40px;
+border-radius:10px;
+padding:5px;
+}

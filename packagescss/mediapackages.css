@@ -1,0 +1,168 @@
+@media all and (max-width:1070px)
+{
+    .navbar{
+    
+    }
+    .nav>ul>li>a {
+        font-size:0.9rem;
+        padding: 10px;
+    }
+    .navbtn{
+        justify-content: center;
+        
+    }
+    
+    .navbtn>button {
+        margin: 5px;
+        height: 40px;
+        width:60px;
+        font-size:0.7rem;
+        flex-direction:column;
+        text-align:center;
+        padding:5px;
+    }
+}
+@media all and (max-width:800px)
+{
+
+ .navbar {
+    flex-direction: column;
+    height:120px;
+
+}
+.nav ul {
+    justify-content: space-between;
+    width: 100%;
+
+
+}
+
+.nav>ul>li>a {
+    font-size: 0.9rem;
+    padding: 5px;
+}
+
+.navbtn {
+    justify-content: center;
+}
+.navbtn>button {
+    margin: 10px;
+    height: 40px;
+    flex-direction:column;
+    width:70px;
+}
+.logo {
+    width: 70px;
+    height: 50px;
+    padding: 0px;
+
+}
+
+.logo>img {
+    width: 100%;
+    height: 40px;
+}
+
+.image>img {
+    height: 100vh;
+
+}
+.navbarpackages
+{
+    display:flex;
+    flex-wrap:wrap;
+}
+.birthdaypackages{
+    width:250px;
+    display:flex;
+    flex-direction:column;
+}
+
+.weddingpackages{
+    width:250px;
+
+    display:flex;
+    flex-direction:column;
+}
+.adventurestaypackages{
+    width:250px;
+    display:flex;
+    flex-direction:column;
+}
+.birthdaypackages>img
+{
+    
+    height:150px;
+}
+.weddingpackages>img
+{
+    
+    height:150px;
+}
+.adventurestaypackages>img
+{
+    
+    height:150px;
+}
+}
+@media all and (max-width:524px) 
+{
+
+.navbar {
+    height: 100%;
+    position: static;
+}
+
+.nav {
+    flex-direction: column;
+}
+
+.logo>img {
+    height: 50px;
+    width: 100px;
+}
+
+.nav ul {
+    flex-direction: column;
+
+}
+.nav>ul>li>a {
+    font-size: 1.2rem;
+}
+
+.image>img {
+    height: 100vh;
+}
+.birthdaypackages{
+    width:150px;
+    display:flex;
+    flex-direction:column;
+}
+
+.weddingpackages{
+    width:150px;
+
+    display:flex;
+    flex-direction:column;
+}
+.adventurestaypackages{
+    width:150px;
+    display:flex;
+    flex-direction:column;
+}
+.birthdaypackages>img
+{
+    
+    height:100px;
+}
+.weddingpackages>img
+{
+    
+    height:100px;
+}
+.adventurestaypackages>img
+{
+    
+    height:100px;
+}
+}

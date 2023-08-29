@@ -1,0 +1,481 @@
+@media (max-width: 380px) {}
+/* XS Portrait */
+@media (max-width: 380px) {}
+@media (max-width: 767px) {}
+ul.list-inline.card {padding-left: 25px;}
+@media (max-width: 380px) {
+/*********************** INDEX-STARTS-HERE ******************************/
+.position-1 {left: 12px;top: 30px}
+.position-2{top: 40px;right: 30px;}
+.position-3{ left: 30px;}
+.footer-banner-sec img{ max-width: 50%;}
+/*********************** INDEX-ENDS-HERE ******************************/
+}
+@media (max-width: 414px) {
+/*********************** INDEX-STARTS-HERE ******************************/
+.position-3 {left:5px!important;}
+.position-1{ left: 0;}
+.position-2 {top:33px;right: 86px;}
+/*********************** INDEX-ENDS-HERE ******************************/
+}
+@media (min-width: 384px) and (max-width: 400px){
+/*********************** INDEX-STARTS-HERE ******************************/
+.position-2{ top: 62px;}
+.footer-banner-sec img{
+	max-width: 50%;
+}
+/*********************** INDEX-ENDS-HERE ******************************/
+}
+
+/************************ OFFERS-STARTS-HERE************************/
+div.tt_tab{ position: inherit; padding: 0;}
+ul.tt_tabs li{ width:100%;margin: 0;padding-left: 0; height: auto;}
+.tt_tab p{ padding: 0;font-size: 20px;}
+.offer-image{ margin-top: 0;}
+.offer-image img { max-width:100%; height: auto;}
+.terms-conditions{ width:100%; margin:0 auto; }
+.terms-conditions h2{ font-size: 18px;}
+.terms-conditions ul li{ height: auto;}
+.tab-81 .tt_tabs .tt_tab{ padding: 0;}
+.btn-top a{ margin-top: 0px;width: auto;margin-left: 0;padding: 0px 81px!important;}
+.offer-tab{ padding: 0px;}
+/*.back-to-btn a{ padding: 0px;}*/
+div.tt_container{ height: auto!important; padding: 0px}
+/************************ OFFERS-ENDS-HERE************************/
+}
+
+@media (min-width: 769px) and (max-width: 1024px){
+/*********************** INDEX-STARTS-HERE ******************************/
+.login-section .list-inline{ margin-left:-52px!important; float: none;}
+.fixed .buy{ font-size: 12px !important;}
+.buy{margin-right: -20px;}
+.login-section li{ font-size: 16px;}
+.fixed .search-section .s_wrap{top: 120px!important;}
+.banner{	height: 535px;}
+.shop h1, .shop p {width: 100%; margin: 0 auto;}
+.shop h1 {font-size: 30px;}
+.king{ padding-left:0!important}
+.col-md-5.col-sm-12.top-text {width: 100%;}
+.top-banner{ background-size: 100% 100%;}
+.position-2{ right: 0;}
+.position-3{ width: 100%;}
+.col-md-5.top-text {width: 100%;}
+.position-2 {right: -177px; top: 45px;}
+.footer a{	padding-left: 0px; font-size:13px;}
+.aqua-txt p, .aqua-txt h1 {width: 100%;margin: 0 auto; padding-left: 25px;}
+.find-bg{ background-size: cover;}
+.scrollList{overflow:hidden;}
+.fixed li a {font-size: 19px;}
+.sticky.fixed .wtf-menu .sm-container {top: 120px;}
+/*********************** INDEX-ENDS-HERE ******************************/
+/*********************** TICKETS-STARTS-HERE ******************************/
+.ticket-book .container {padding: 0; width: 100%;}
+.ticket-book .container{ width:100%}
+/*********************** TICKETS-ENDS-HERE ******************************/
+/*********************** ABOUT-US-STARTS-HERE ******************************/
+.about-img{ width: 100%}
+/*********************** TICKETS-ENDS-HERE ******************************/
+.ticket-book .container{width:100%}
+ .social {padding-left: 0px!important;}
+.park-info-link ul li{width: 200px;}
+.tips-section.vc_col-sm-6{ width: 46%;}
+.tips p{ font-size: 16px; line-height: 24px;}
+/********************* PARK-INFO-STARTS-HERE **********************/
+.ride-container{ width: 100%;}
+.access-border:after{ left: 0; width: 91%;}
+/*.access-container{    width: 89%;left: 15px;}*/
+.kilometer:after{width: 92%; left: 0;}
+/********************* PARK-INFO-ENDS-HERE **********************/
+}
+
+
+
+/* xs */
+@media (min-width: 320px) and (max-width: 767px) {
+
+.sepoy-sm{ display:none;}
+.king-margin{ display:none;}
+.ticket{ font-size: 14px;}
+.find-bg{ display: none;}
+.acc-sm .wpb_column.vc_column_container.vc_col-sm-4 { width: 33%;  display: inline-block;}
+.airport-text p{ font-size: 16px; padding: 0px 15px; margin-top: 15px;line-height: 15px;}
+.airport-number p{ font-size: 16px; padding:0px;}
+.kilometer:after{ top:52px;}
+.airport-number p:after{right: -47px;}
+.safety-tips-content p{ font-size: 18px; line-height: 24px;}
+.map-background{ display:none;}
+.map-list{ display:none;}
+.aqua-txt h1{ font-size:28px;}
+.aqua-txt p{ margin-bottom:20px;}
+.about img{ margin:0px 0px;}
+.park{ margin-top:0px;}
+/* banner */
+.tp-rightarrow.tparrows.gyges, .tp-leftarrow.tparrows.gyges{ display:none;}
+.tp-rightarrow.tparrows.gyges{ display:none;}
+/* banner */
+/*********************** INDEX-STARTS-HERE ******************************/
+.banner {height: auto;}
+svg {	max-width: 100%;	margin: 0 auto;    display: block;}
+.logo-section img{ position:inherit;margin: 0 auto; display: block!important;}
+.logo-section h2{padding-left: 0px;margin-bottom: 10px;margin-top: 0px; width: 250px;  display: none;}
+.logo-section a{ margin: 0;}
+.fixed .header{ padding:30px 0px;}
+.story-link{ margin-left:0px; display: none;}
+ul.wtf-menu li:before{ display: none;}
+ul.wtf-menu li{ text-align: center; width: 100%;}
+.login-section li a{ margin-top: 0px;}
+.buy { float: none; margin-left: 15px; display: none;}
+.menu-section i.fa.fa-search{ text-align: center; width: 100%;}
+.login-section .list-inline{ display: none;}
+.toggle-icon {cursor: pointer;position: absolute;right: 15px;top: -67px;font-size: 24px; display: block;}
+i.fa.fa-navicon.toggle-icon{ display:block;}
+.menu-section{display:none;position: absolute;background-color: #fff;width: 100%; z-index: 10000000;}
+.menu-1 .wtf-menu li:hover > .sm-container{ visibility: none; opacity: 0; display: none;}
+.fixed i.fa.fa-navicon.toggle-icon{ top: -15px}
+.fixed .logo-section img{ left: 0px;top: -25px;}
+.king-margin{ float: none;}
+.shop h1, .shop p{ width: 100%;}
+.shop h1{font-size:31px;margin-top: 0px;line-height: 33px;}
+.king{padding-left: 0!important;}
+.scrollList {background: #c5dfcf;}
+.attraction a{	padding-top: 0;}
+.find-bg{padding:0; background-size: cover;background-position: top;}
+.find-bg h1{padding-top: 53px;padding-left: 10px;font-size:36px;}
+.find-bg p {width: 90%;padding: 5px 10px;padding-bottom: 53px}
+.img-1{ height:auto;}
+/*.airport-text p:after{ display: none;}
+.airport-number p:after{ display: none;}*/
+.top h1 {font-size: 30px;line-height: 30px;}
+.top-banner{ background-size: cover;background-position: top;/*    padding: 85px 10px;*/}
+.about h1{ font-size: 29px;    margin: 0;}
+.about p{ font-size: 16px;}
+.footer a{ font-size: 14px;}
+.position-1, .position-2, .position-3 {width: auto; max-width: 50%;}
+.fixed .search-section .s_wrap{ position: relative; top: 0;}
+.fixed .search-section input{ width: 100%; padding: 0px;}
+/*********************** INDEX-ENDS-HERE ******************************/
+
+/*********************** ABOUT US-STARTS-HERE ******************************/
+.title_cap{ font-size: 45px; margin-left:15px;}
+.page-links .breadcrumb{ margin-left: 15px;}
+.about-img{ width: 100%;}
+.about-content table{ width: 100%;}
+.about-content{ max-width: 100%!important;}
+.about-content table td{ border-right: 0;}
+.about-content table td p, .about-content strong{ font-size: 14px;}
+.about-content table td{ padding: 5px;}
+.about-content table:before{ height: 98%;}
+.search-section input{ width: 100%; padding: 0;}
+.search-section .s_wrap{ position: relative; top:0;}
+/*********************** ABOUT US-ENDS-HERE ******************************/
+
+/*********************** TICKETS-STARTS-HERE ******************************/
+.silver-crown, .ticket-list li, .gold-crown{ width: 100%;}
+.crown-sec, .crown-sec-1{ width: 100%!important}
+.ticket-book .container{ width:100%}
+.gold-crown p, .silver-crown p{ margin-right: 0px;}
+.about-content .payu-section-1 span{ padding-left: 0px;}
+.about-content.ticket_container .row {padding-right: 15px;padding-left: 15px;}
+.payu-section, .payu-section-1{ padding: 10px 6px;}
+.terms p{ width: 100%;}
+.proceed-button {text-align: center;padding: 12px;display: inline-block;margin: 0 auto;width: 300px;}
+.cost{ width: 100%;}
+
+/*********************** TICKETS ENDS-HERE ******************************/
+
+/*********************** RIDES-STARTS-HERE ******************************/
+.ride-content ul li h2{ font-size: 15px;}
+/*********************** RIDES-ENDS-HERE ******************************/
+
+/*********************** ATTRACTIONS-STARTS-HERE ******************************/
+.att-img-sec .hover-container{ height: auto;}
+/*********************** ATTRACTIONS-ENDS-HERE ******************************/
+
+/*********************** GROUPS-STARTS-HERE ******************************/
+.hvr-contain{ height: auto;}
+/*********************** GROUPS-ENDS-HERE ******************************/
+
+/*********************** PARK-INFO-STARTS-HERE ******************************/
+.park-info-link ul li{ width: 100%; left: 0;}
+.access-border:before{ width:100%;  left: 0;}
+.access-border:after, .kilometer:after{ width: 100%; left: 0;}
+.access-container{ width: 100%;}
+.tips-section.vc_col-sm-6{ width: 100%; height: 100%; margin-bottom:20px;}
+.tips p{ font-size:14px;}
+.tips {height: 70px;}
+.inside-list li{ width: 300px;}
+.map-container{ width:100%;}
+.map-container p{height:auto}
+div#draggable{left: -585px;top: -1837px;}
+.vc_custom_1470992239235{ margin-top: 0px!important}
+.statue_man_sec h1{ font-size:30px;}
+.maintanence-content p{ font-size:17px;}
+/*********************** PARK-INFO-ENDS-HERE ******************************/
+
+/*********************** CONTACT-US-STARTS-HERE ******************************/
+.contact-content p{ padding: 0px;}
+.wpcf7-form-control-wrap input, .wpcf7-form-control-wrap select, .wpcf7-form-control-wrap textarea{ width: 100%;}
+.wpcf7-form p{ width: 100%;}
+.contact-form-container{ width: 100%;}
+/*********************** CONTACT-US-ENDS-HERE ******************************/
+
+/************************ OFFERS-STARTS-HERE************************/
+div.tt_tab{ position: inherit; padding: 0;}
+ul.tt_tabs li{ width:100%;margin: 0;padding-left: 0; height: auto;}
+.tt_tab p{ padding: 0;font-size: 20px;}
+.offer-image{ margin-top: 0;}
+.offer-image img { max-width:100%; height: auto;}
+.terms-conditions{ width:100%; margin:0 auto; }
+.terms-conditions h2{ font-size: 18px;}
+.terms-conditions ul li{ height: auto;}
+.tab-81 .tt_tabs .tt_tab{ padding: 0;}
+.btn-top a{ margin-top: 0px;width: auto;margin-left: 0;padding: 0px 81px!important;}
+.offer-tab{ padding: 0px;}
+/*.back-to-btn a{ padding: 0px;}*/
+div.tt_container{ height: auto!important; padding: 0px}
+/************************ OFFERS-ENDS-HERE************************/
+
+/************************* RIDE-DETAIL-STARTS-HERE *************************/
+.container.ri_data_co{width:100%}
+.container.ri_data_co.restrictions{ width: 100%;}
+/************************* RIDE-DETAIL-ENDS-HERE *************************/
+/************************* TICKETING-PAGE-ENDS-HERE *************************/
+/*.ticketing-content table{ width:100%;}*/
+.ticketing-content p{ width:100%; font-size: 13px;line-height: 20px;margin-bottom: 15px;}
+.ticketing-content table img {max-width: 100%;}
+.ticketing-content table th{ font-size:26px; padding:15px 5px;}
+.ticketing-content td, th{ padding:0px;height: 50px;}
+.ticketing-content table svg{ width:130px;}
+.ticketing-content td{ font-size:22px;}
+.column-para{ padding:8px 5px!important}
+.ticket-book{ margin-top:0px;}
+.payu-section{ height: 60px; width:100%;}
+.table-box{width: 100%;  overflow-x: scroll;}
+.payu_form{ padding:0px 15px;}
+/************************* TICKETING-PAGE-ENDS-HERE *************************/
+
+}
+/* sm */
+@media (min-width: 768px) and (max-width: 991px) {
+/*********************** INDEX-STARTS-HERE ******************************/
+.banner {height: 300px; overflow:hidden;}
+.menu-section li a{ display:inline-block}
+.rs-background-video-layer{ height:300px!important;}
+.tp-rightarrow.tparrows.gyges, .tp-leftarrow.tparrows.gyges{ display:none;}
+.tp-rightarrow.tparrows.gyges{ display:none;}
+.tp-bgimg.defaultimg {height: 300px!important;}
+svg {	max-width: 100%;	margin: 0 auto;    display: block;}
+.logo-section img{ position:inherit;margin: 0 auto; display: block!important; width: 18%;}
+.logo-section h2{padding-left: 0px;margin-bottom: 10px;margin-top: 0px; width: 250px;  display: none;}
+.logo-section a{ margin: 0;}
+.fixed .header{ padding:30px 0px;}
+.story-link{ margin-left:0px; display: none;}
+ul.wtf-menu li:before{ display: none;}
+ul.wtf-menu li{ text-align: center; width: 100%;}
+.login-section li a{ margin-top: 0px;}
+.buy { float: none; margin-left: 15px; display: none;}
+.menu-section i.fa.fa-search{ text-align: center; width: 100%;}
+.login-section .list-inline{ display: none;}
+.toggle-icon {cursor: pointer;position: absolute;right: 15px;top: -67px;font-size: 24px; display: block;}
+i.fa.fa-navicon.toggle-icon{ display:block;}
+.menu-section{display:none;position: absolute;background-color: #fff;width: 100%; z-index: 10000000;}
+.menu-1 .wtf-menu li:hover > .sm-container{ visibility: none; opacity: 0; display: none;}
+.fixed i.fa.fa-navicon.toggle-icon{ top: -15px}
+.fixed .logo-section img{ left: 0px;top: -25px;}
+/*.king-container svg{ margin: 0 auto; margin-top: 13px;}*/
+.shop h1{ font-size: 22px;line-height: 23px; margin: 0px;}
+.shop p {font-size: 13px; margin-top: 0px; line-height: 20px;}
+.ticket{ font-size:19px;}
+.shop h1, .shop p{ width: 100%;}
+.king{padding-left: 0!important; margin-top: 40px;}
+.scrollList {background: #c5dfcf;}
+.attraction a{	padding-top: 0;width: 100%; margin-top: -85px;line-height: 19px; font-size: 15px;}
+.find-bg{padding:0; background-size: cover;background-position: top;}
+.find-bg h1{ padding-top: 31px; padding-left: 40px; font-size: 28px;}
+.find-bg p {width: 67%; padding: 13px 44px; padding-bottom: 53px; font-size: 17px;}
+.top h1 {font-size: 30px;line-height: 30px;}
+.top-banner{ background-size: contain; padding: 85px 10px; height: auto;display: inline-block; width: 100%;background-position: left top}
+.about h1{ font-size: 36px;}
+.about p{ font-size: 16px;}
+.footer a{ font-size: 14px;}
+.position-1, .position-2, .position-3 {width: auto;}
+.fixed .search-section .s_wrap{ position: relative; top: 0;}
+.position-2 {position: absolute; top: 51px;right: 150px;}
+.position-1{ left: -40px; top: 0px;}
+.position-3{ left: 22px;}
+.overlay-2{/*	width: 414px; max-width: 100%; margin: 0 auto; */margin-bottom: 25px;}
+/*.donkey-hvr, .statue-hvr, .live-hvr {width: 387px; margin: 0 auto; max-width: 100%;}*/
+.aqua-txt h1{ font-size:23px;}
+.aqua-txt p{ font-size: 14px;}
+.img-1{ margin: 0 auto; max-width: 624px; display: block;}
+.parascroll { min-height: 380px;}
+/*.hover-container{ width: 45%;}*/
+.shop { height: 200px; padding:0px!important;}
+.king-container{ margin:0 auto; display: inline-block; padding: 0px!important; width: 100%;}
+.king-margin{ float: none; width: 100%; margin: 0 auto;  margin-top: 30px;}
+.king {padding-left: 0!important;margin-top: -15px!important;}
+.sepoy-sm{margin-top:-130px;}
+/*********************** INDEX-ENDS-HERE ******************************/
+
+/*********************** ABOUT US-STARTS-HERE ******************************/
+.title_cap{ font-size: 45px; margin-left:15px;}
+.page-links .breadcrumb{ margin-left: 15px;}
+.about-img{ width: 100%;}
+.about-content table{ width: 100%;}
+.about-content{ max-width: 100%;}
+.about-content table td{ border-right: 0;}
+.about-content table td p, .about-content strong{ font-size: 14px;}
+.about-content table td{ padding: 5px;}
+.about-content table:before{ height: 98%;}
+.search-section input{ width: 100%; padding: 0;}
+.search-section .s_wrap{ position: relative; top:0;}
+/*********************** ABOUT US-ENDS-HERE ******************************/
+
+/*********************** TICKETS-STARTS-HERE ******************************/
+.ticket-list span{ padding-top:0px;}
+.crown-sec-1, .crown-sec{ height: 187px;}
+/*.payu-section{ height: 90px;}*/
+.about-content .payu-section-1 span{ padding-left: 0px;}
+.about-content.ticket_container .row {padding-right: 15px;padding-left: 15px;}
+.payu-section, .payu-section-1{ padding: 10px 6px;}
+.terms p{ width: 100%;}
+.proceed-button {text-align: center;padding: 12px;display: inline-block;margin: 0 auto;width: 300px;}
+.cost{ width: 100%;}
+.ticket-book .container {padding: 0; width: 100%;}
+
+/*********************** TICKETS ENDS-HERE ******************************/
+
+/************************ OFFERS-STARTS-HERE************************/
+div.tt_tab{ position: inherit; padding: 0;}
+ul.tt_tabs li{ width:100%;margin: 0;padding-left: 0; height: auto;}
+.tt_tab p{ padding: 0;font-size: 20px;}
+.offer-image{ margin-top: 0;}
+.offer-image img { max-width:100%; height: auto;}
+.terms-conditions{ width:100%; margin:0 auto; }
+.terms-conditions h2{ font-size: 18px;}
+.terms-conditions ul li{ height: auto;}
+.tab-81 .tt_tabs .tt_tab{ padding: 0;}
+.btn-top a{ margin-top: 0px;width: auto;margin-left: 0;padding: 0px 81px!important;}
+.offer-tab{ padding: 0px;}
+/*.back-to-btn a{ padding: 0px;}*/
+div.tt_container{ height: auto!important; padding: 0px}
+/************************ OFFERS-ENDS-HERE************************/
+/************************ PARK-INFO-STARTS-HERE************************/
+.park-info-link ul li{margin: 5px; width: 48%;}
+.tips-section.vc_col-sm-6{ width: 46%;}
+.access-container{ width: 100%;}
+.social {padding-left: 0px!important;}
+.tips p{ font-size: 16px; line-height: 24px;}
+.map-container{ width: 100%;}
+/************************ PARK-INFO-ENDS-HERE************************/
+
+/************************* RIDE-DETAIL-STARTS-HERE *************************/
+.container.ri_data_co{width:100%}
+.container.ri_data_co.restrictions{ width: 100%;}
+/*.ride-content h3{ width: }*/
+/************************* RIDE-DETAIL-ENDS-HERE *************************/
+/* ATTRACTIONS */
+.like_sec ul li img{ width: 290px;}
+.like_sec ul li h2{ font-size: 22px;}
+.like_sec ul li p{ font-size: 14px;}
+/* ATTRACTIONS */
+
+/* CONTACT US PAGE STARTS HERE */
+.contact-mark p, .contact-mark a{ font-size: 16px;}
+
+/* CONTACT US PAGE ENDS HERE */
+
+/************************* TICKETING-PAGE-ENDS-HERE *************************/
+.ticketing-content table{ width:100%;}
+.ticketing-content p{ width:100%;}
+.ticketing-content table img {max-width: 100%;}
+.ticketing-content table th{ font-size:28px; padding:15px 5px;}
+.ticketing-content td{ font-size:28px;}
+/*.column-para{ display:none;}
+.column-para{ padding:0px;}*/
+.ticket-book{ margin-top:0px;}
+.payu-section{ height: 60px;}
+
+/************************* TICKETING-PAGE-ENDS-HERE *************************/
+}
+/* md */
+@media (min-width: 992px) and (max-width: 1024px) {
+body{ overflow-x: hidden;}
+.banner {height: auto;}
+.shop h1 {font-size: 30px; line-height: 30px;width: 100%; margin-right: 0;}
+.shop p{ width: 100%; margin-right: 0; font-size: 14px; line-height: 21px;}
+.ticket{ font-size: 16px;}
+.find-bg h1{ font-size: 35px;}
+.find-bg p{font-size: 18px;}
+.top h1{font-size: 20px;line-height: 22px;}
+.social {padding-left: 7px!important;}
+.fixed .buy{margin-top: 15px;font-size: 14px;}
+.login-section .list-inline{margin-right: -15px;}
+.buy { font-size: 15px; width: 100%; background-size: contain; background-repeat: no-repeat;margin-top: 40px;}
+.logo-section img{ max-width: 30%;}
+.about-img{ width: 100%;}
+.footer a{ padding-left: 0px;}
+.about h1{ margin-top:0px; font-size: 30px;}
+.about p{ font-size: 18px; margin-top: 5px;}
+.about a{ margin-top:10px;}
+.footer address, .footer p{ font-size: 14px;}
+.position-1 {left:-20px}
+.king-margin{ margin-top:40px;}
+.king{ margin-top:30px;}
+.top p{font-size:16px; line-height: 22px;}
+.menu-section li a{ display:inline-block}
+/* MEGA MENU STARTS HERE */
+.sm-container .sub-menu .m-title a{ padding: 17px 15px;}
+.wtf-menu .sm-container{ top: 185px;}
+#menu-item-29 .sm-container .sub-menu:after{ width: 350px;height: 300px; background: url(../images/ticket-menu-bg.jpg) no-repeat 0px 0px;}
+.sm-container .sub-menu:after{ right: 175px; width: 350px;height: 300px;}
+/* MEGA MENU ENDS HERE */
+
+/* TICKETS PAGE STARTS HERE*/
+.ticket-book .container{ width: 100%;}
+.tips-section.vc_col-sm-6{width: 47%;/*margin-top: 20px;*/}
+.vc_col-has-fill>.vc_column-inner, .vc_row-has-fill+.vc_row-full-width+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_row>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_vc_row>.vc_row>.vc_vc_column>.vc_column_container>.vc_column-inner, .vc_row-has-fill+.vc_vc_row_inner>.vc_row>.vc_vc_column_inner>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_row>.vc_vc_column>.vc_column_container>.vc_column-inner, .vc_row-has-fill>.vc_vc_column_inner>.vc_column_container>.vc_column-inner{ padding-top:0px!important;}
+.tips p{ font-size: 23px; line-height: 30px;}
+.ticketing-content table{ width:100%;}
+/* TICKETS PAGE ENDS HERE*/
+
+/* PARK-INFO STARTS HERE */
+.statue_man_sec h1{ margin-top: 20px;}
+.park-info-link ul li{ width: 210px;}
+.map-container { width: 100%;}
+.vc_column-inner.vc_custom_1470992348914 { padding-top: 0!important;}
+/* PARK-INFO ENDS HERE */
+
+
+/* MENU SECTION STARTS HERE */
+.logo-section img{ position:inherit; float: right;}
+.logo-section h2{padding-left: 0px;margin-bottom: 10px;margin-top: 0px; width: 250px;  display: none;}
+.logo-section a{ margin: 0;}
+.fixed .header{ padding:30px 0px;}
+.story-link{ margin-left:0px; display: none;}
+ul.wtf-menu li:before{ display: none;}
+ul.wtf-menu li{ text-align: center; width: 100%;}
+.login-section li a{ margin-top: 0px;}
+.buy { float: none; margin-left: 15px; display: none;}
+.menu-section i.fa.fa-search{ text-align: center; width: 100%;}
+.login-section .list-inline{ display: none;}
+.toggle-icon {cursor: pointer;position: absolute;right: 15px;top: 50px;font-size: 24px; display: block;}
+i.fa.fa-navicon.toggle-icon{ display:block;}
+.menu-section{display:none;position: absolute;background-color: #fff;width: 100%; z-index: 10000000;}
+.menu-1 .wtf-menu li:hover > .sm-container{ visibility: none; opacity: 0; display: none;}
+.fixed i.fa.fa-navicon.toggle-icon{ top: -15px}
+.fixed .logo-section img{ left: 0px;top: -25px;}
+ul#menu-main-menu {float: none!important;}
+.search-section .s_wrap{ position: inherit;}
+.hidden-md{ display: block!important;}
+.fixed .search-section .s_wrap{ position: inherit;}
+/* MENU SECTION ENDS HERE */
+}
+/* lg */ 
+@media (max-width: 1200px) { }
+
+@media (min-width: 1200px) and (max-width: 1400px) {.banner{height:660px;}}
+
+
+@media (min-width: 1400px) and (max-width: 1600px) {}
+
